@@ -31,6 +31,9 @@ Die Programme sind auch ohne Installation in einem Browser lauffähig, einfach a
 Tipp: Wenn alles hochgeladen und die nötigen Pakete hinzugeladen worden sind, muss man in der oberen Menüzeile "Run" auswählen und dann "Run All Cells".
 - Erwartungswert_All_in_One.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/NorbertReimund/main?filepath=Erwartungswert_All_in_One.ipynb)
 
+-  Zwei_Spieler_Erwartungswert.ipynb: [![Voilà-Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/RVeh/NorbertReimund/main?filepath=Zwei_Spieler_Erwartungswert.ipynb)
+
 ---
 
 ## 🧪 Hinweise zur Nutzung
