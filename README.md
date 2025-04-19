@@ -21,9 +21,8 @@ Die Programme können auch ohne lokale Installation direkt im Browser ausgeführ
 | Notebook | Inhalt |
 |----------|--------|
 | `Erwartungswert_All_in_One.ipynb` | Exakte Berechnung von Erwartungswerten für Einzelspieler mit Strategievergleich und Visualisierung |
-| `03_Zweispieler_Erwartungswert.ipynb` | Berechnung der erwarteten Restspielzeit im synchronen Zwei-Spieler-Modell |
+| `Zwei_Spieler_Erwartungswert.ipynb` | Berechnung der erwarteten Restspielzeit im synchronen Zwei-Spieler-Modell |
 | `BerechnungE321-u-a-Reimund.pdf`       |  händische Berechung von E((3,2,1); Ein-und Zwei-Spieler-Programm          |
-| `04_Zweispieler_Gewinnchancen.ipynb` | Berechnung der Wahrscheinlichkeiten für Sieg, Niederlage und Unentschieden |
 
 ---
 Die Programme sind auch ohne Installation in einem Browser lauffähig, einfach auf den Kink klicken.
